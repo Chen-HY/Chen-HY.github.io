@@ -2,8 +2,7 @@
 title: "Heterogeneous Multi-sensor Calibration Based on Graph Optimization"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2019
 venue: 'RCAR '
 paperurl: 'https://arxiv.org/pdf/1905.11167.pdf'
 citation: 'Chen, H., and S. Schwertfeger, ”Heterogeneous Multi-sensor Calibration Based on Graph Optimization”,
@@ -13,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://arxiv.org/pdf/1905.11167.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Your Name, You. (2019). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
