@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "Towards Generation and Evaluation of Comprehensive Mapping Robot Datasets"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2019
+venue: 'ICRA(2019) WORKSHOP'
+paperurl: 'https://arxiv.org/pdf/1905.09483.pdf'
+citation: 'Chen, H., X. Zhao, J. Luo, Z. Yang, Z. Zhao, H. Wan, X. Ye, G. Weng, Z. He, T. Dong, et al., ”Towards
+Generation and Evaluation of Comprehensive Mapping Robot Datasets”, Workshop on Dataset Gen-
+eration and Benchmarking of SLAM Algorithms for Robotics and VR/AR, 2019 IEEE International
+Conference on Robotics and Automation (ICRA): IEEE Press, 2019.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://arxiv.org/pdf/1905.09483.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Your Name, You. (2019). "Towards Generation and Evaluation of Comprehensive Mapping Robot Datasets" <i>Journal 1</i>. 1(2).
