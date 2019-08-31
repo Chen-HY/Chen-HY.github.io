@@ -8,7 +8,6 @@ paperurl: 'https://arxiv.org/pdf/1905.11167.pdf'
 citation: 'Chen, H., and S. Schwertfeger, ”Heterogeneous Multi-sensor Calibration Based on Graph Optimization”,
 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR): IEEE, 2019.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://arxiv.org/pdf/1905.11167.pdf)
 
