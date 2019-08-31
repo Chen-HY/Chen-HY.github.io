@@ -3,7 +3,7 @@ title: "Towards Generation and Evaluation of Comprehensive Mapping Robot Dataset
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2019
+date: 2019-10-1
 venue: 'ICRA(2019) WORKSHOP'
 paperurl: 'https://arxiv.org/pdf/1905.09483.pdf'
 citation: 'Chen, H., X. Zhao, J. Luo, Z. Yang, Z. Zhao, H. Wan, X. Ye, G. Weng, Z. He, T. Dong, et al., ”Towards
