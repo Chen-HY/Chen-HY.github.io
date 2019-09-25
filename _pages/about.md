@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I’m now master student in SIST, ShanghaiTech University
+I’m now master student in SIST, ShanghaiTech University.
+
 Before that I received the Bachelor’s Degree at China University of Petroleum. 
+
 I’m interested in Robotics and deep learning.
